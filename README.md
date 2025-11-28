@@ -46,7 +46,7 @@ SSM + Jenkins Automation
 ## 3. Block Diagram
 
 <p align="center">
-  <img src="images/blockdiagram.png" width="450" alt="Block Diagram"/>
+  <img src="images/blockdiagram.jpg" width="450" alt="Block Diagram"/>
 </p>
 
 ### Block Diagram Description
